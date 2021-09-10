@@ -1,0 +1,14 @@
+*.pyc
+*~
+*swp
+build
+dist
+*.egg-info
+.eggs/
+.DS_Store
+.pytest_cache
+__pycache__/
+doc/.ipynb_checkpoints
+doc/_build
+doc/_static
+doc/_templates
